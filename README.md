@@ -1,4 +1,4 @@
 # helloworld
 This folders are examples for introducing web development to kids and non experience parents
 - Slides can be view at
-https://docs.google.com/presentation/d/1eSwUTiGHGd0qK4_A_d65gqSmNskl-MZiLh44TRvPKQM/-edit?usp=sharing
+https://docs.google.com/presentation/d/1CEiIXuXWjJkNH0zHk1bWm77qDOq-wU-WE6FgjZcC_bw/edit?usp=sharing
